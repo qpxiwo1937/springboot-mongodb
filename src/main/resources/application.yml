@@ -1,0 +1,6 @@
+server:
+  port: 7980
+spring:
+  data:
+    mongodb:
+      uri: mongodb://192.168.2.186:30000/kkb
