@@ -65,4 +65,9 @@ public class CitemController {
     public String a(){
         return "abc";
     }
+
+    @GetMapping("/b")
+    public String b(){
+    	return "bbb";
+    }
 }
