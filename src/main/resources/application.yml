@@ -3,4 +3,4 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://192.168.2.186:30000/kkb
+      uri: mongodb://192.168.2.190:30000/kkb
