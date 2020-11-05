@@ -78,7 +78,7 @@
                         </resource>
                     </resources>
                     <!--指定远程docker api远程地址 -->
-                    <dockerHost>http://192.168.2.186:2375</dockerHost>
+                    <dockerHost>http://192.168.2.190:2375</dockerHost>
                 </configuration>
 
                 <!--<executions>-->
